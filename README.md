@@ -1,2 +1,11 @@
-# Memorize
-work from Stanford CS193p 2020 (SwiftUI &amp; MVVM)
+# CS193p: Developing Applications for iOS using SwiftUI
+
+Projects following along the video course.
+
+Course site: https://cs193p.sites.stanford.edu
+
+## Memorize
+
+## EmojiArt
+
+## Enroute
