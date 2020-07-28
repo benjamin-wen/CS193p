@@ -1,4 +1,4 @@
-# CS193p: Developing Applications for iOS using SwiftUI
+# Spring 2020 CS193p: Developing Applications for iOS using SwiftUI
 
 Projects following along the video course.
 
